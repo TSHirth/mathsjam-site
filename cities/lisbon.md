@@ -8,10 +8,10 @@ organiser:
     email: lisbon@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Arte final café"
-    description: ""
-    url: https://goo.gl/maps/LuRTPugHHio
-    lat: 38.7091469
-    lon: -9.1344288
+    pub_name: "Má Lingua"
+    description: "https://www.facebook.com/malinguanagraca/"
+    url: https://goo.gl/maps/cNv9DU97ZGz
+    lat: 38.7193269
+    lon: -9.1322519
 hiatus: False
 ---
