@@ -4,14 +4,14 @@ city_name: Lisbon
 jam_name: Lisbon MathsJam
 email: lisbon@mathsjam.com
 organiser:
-    name: Tiago
+    name: Tiago Hirth
     email: lisbon@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "Arte final café"
+    pub_name: "Com Calma - Espaço Cultural"
     description: ""
-    url: https://goo.gl/maps/LuRTPugHHio
-    lat: 38.7091469
-    lon: -9.1344288
+    url: https://goo.gl/maps/BkLDNat31ZK2
+    lat: 38.751806
+    lon: -9.199495
 hiatus: False
 ---
